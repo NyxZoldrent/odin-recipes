@@ -1,0 +1,1 @@
+this project was to demonstrate basics of headings, paragraphs, images, links, and lists
